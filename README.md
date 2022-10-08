@@ -16,7 +16,7 @@ Veja todas as regras em https://hacktoberfest.com/
 
 ## Participantes
 - [Nome Completo](https://github.com/username)
-
+- [Delcio Naldo Gilberto Manuel](https://github.com/Naldo-gills)
 
 ### Adiciona o teu nome
 
